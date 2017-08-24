@@ -1,0 +1,7 @@
+/.bin
+/.battery.config.txt
+/*.exe
+/*.bat
+/ground
+/GNUmakefile
+/Makefile
